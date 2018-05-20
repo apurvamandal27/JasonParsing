@@ -1,0 +1,22 @@
+[
+  {
+    "name" : "apuvra",
+    "password" : "456",
+    "contact" : "8126114464",
+    "country" : "india"
+  },
+
+  {
+    "name" : "Lalita",
+    "password" : "123",
+    "contact" : "9767204464",
+    "country" : "America"
+  },
+  {
+    "name" : "Gopal",
+    "password" : "789",
+    "contact" : "8126114464",
+    "country" : "Canada"
+  }
+]
+https://api.myjson.com/bins/1cuonm
